@@ -26,8 +26,8 @@ class RecaptchaWidget extends Widget
     {
         $this->view->registerJsFile('https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit', [
             'position' => \yii\web\View::POS_HEAD,
-            'async'=>true,
-            'defer'=>true
+            'async' => true,
+            'defer' => true
         ]);
 
         return Html::tag('div', '', [

@@ -1,5 +1,5 @@
 {
-  "name": "Sknny/yii2-recaptcha-widget",
+  "name": "sknny/yii2-recaptcha-widget",
   "description": "A Yii2 widget for integrating Google reCAPTCHA.",
   "type": "library",
   "keywords": ["yii2", "recaptcha", "widget"],
