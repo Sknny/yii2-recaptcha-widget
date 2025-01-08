@@ -6,6 +6,7 @@ A simple widget for integrating Google reCAPTCHA into Yii2 projects.
 
 ```bash
 composer require Sknny/yii2-recaptcha-widget
+```
 
 1. Add the component to your configuration:
 
